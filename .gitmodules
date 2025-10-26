@@ -64,3 +64,12 @@
 [submodule "rapid-adoption-track/singularity-agent-factory"]
 	path = rapid-adoption-track/singularity-agent-factory
 	url = https://github.com/neuroidss/Combination-Synergy-Engine.git
+[submodule "fundamental-track/sequence-to-function/longevity-genie"]
+	path = fundamental-track/sequence-to-function/longevity-genie
+	url = https://github.com/longevity-genie/atomica-mcp.git
+[submodule "fundamental-track/future-of-evidence/evidentia"]
+	path = fundamental-track/future-of-evidence/evidentia
+	url = https://github.com/canonic-epicure/future_of_evidence.git
+[submodule "fundamental-track/trial-outcome-prediction/easidoo"]
+	path = fundamental-track/trial-outcome-prediction/easidoo
+	url = https://github.com/rl55/Acuvir.git
