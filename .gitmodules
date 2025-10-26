@@ -16,3 +16,18 @@
 [submodule "fundamental-track/aging-theories/bioloshki"]
 	path = fundamental-track/aging-theories/bioloshki
 	url = https://github.com/blackbalancef/aging-theories.git
+[submodule "fundamental-track/ovarian-aging-value/intercellular-nomads"]
+	path = fundamental-track/ovarian-aging-value/intercellular-nomads
+	url = https://github.com/Mary200377/THE-VALUE-OF-DELAYED-OVARIAN-AGING.git
+[submodule "fundamental-track/ovarian-aging-value/optimal-rationalization"]
+	path = fundamental-track/ovarian-aging-value/optimal-rationalization
+	url = https://github.com/EliasSchlie/quantifying-the-value-of-delayed-ovarian-aging.git
+[submodule "fundamental-track/menopause-prediction/ageally"]
+	path = fundamental-track/menopause-prediction/ageally
+	url = https://github.com/vovchikzh/hackaging2025-ageally-menopause-menopause-prediction.git
+[submodule "fundamental-track/singularis/digital-humans"]
+	path = fundamental-track/singularis/digital-humans
+	url = https://github.com/IvanArtemov/aaiaa-singularis.git
+[submodule "fundamental-track/sequence-to-function/westcoastvectors"]
+	path = fundamental-track/sequence-to-function/westcoastvectors
+	url = https://github.com/ryanjmccall/protein-seq-to-func.git
