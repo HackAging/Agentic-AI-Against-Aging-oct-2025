@@ -73,3 +73,6 @@
 [submodule "fundamental-track/trial-outcome-prediction/easidoo"]
 	path = fundamental-track/trial-outcome-prediction/easidoo
 	url = https://github.com/rl55/Acuvir.git
+[submodule "rapid-adoption-track/in-the-naik-of-time"]
+	path = rapid-adoption-track/in-the-naik-of-time
+	url = https://github.com/NikeBhide/Extremophile-research-.git
