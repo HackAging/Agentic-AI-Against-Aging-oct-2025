@@ -76,3 +76,18 @@
 [submodule "rapid-adoption-track/in-the-naik-of-time"]
 	path = rapid-adoption-track/in-the-naik-of-time
 	url = https://github.com/NikeBhide/Extremophile-research-.git
+[submodule "fundamental-track/dili-prediction/heterocephalusglaber"]
+	path = fundamental-track/dili-prediction/heterocephalusglaber
+	url = https://github.com/timofeiryko/hack-aging-public.git
+[submodule "fundamental-track/future-of-evidence/vitality-vanguard"]
+	path = fundamental-track/future-of-evidence/vitality-vanguard
+	url = https://github.com/annamazurek-qa/the-vitality-vanguard.git
+[submodule "fundamental-track/singularis/repit"]
+	path = fundamental-track/singularis/repit
+	url = https://github.com/Hydr0xy1/hackthon_aging_singularis.git
+[submodule "fundamental-track/trial-outcome-prediction/peak"]
+	path = fundamental-track/trial-outcome-prediction/peak
+	url = https://github.com/peak-trial-predictor/peak-ct-agent.git
+[submodule "fundamental-track/trial-outcome-prediction/paledriver"]
+	path = fundamental-track/trial-outcome-prediction/paledriver
+	url = https://github.com/Unknown-Negotiator/clinical_trial_prediction_agent.git
