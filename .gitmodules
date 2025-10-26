@@ -37,3 +37,24 @@
 [submodule "rapid-adoption-track/longbio-agent"]
 	path = rapid-adoption-track/longbio-agent
 	url = https://github.com/asverlov/longbio-agent.git
+[submodule "fundamental-track/sequence-to-function/power-rangers"]
+	path = fundamental-track/sequence-to-function/power-rangers
+	url = https://github.com/PandaMia/sequence-to-function.git
+[submodule "fundamental-track/sequence-to-function/elephant-labs"]
+	path = fundamental-track/sequence-to-function/elephant-labs
+	url = https://github.com/davidzheglov/longevity-knowledge-base.git
+[submodule "fundamental-track/future-of-evidence/budapest"]
+	path = fundamental-track/future-of-evidence/budapest
+	url = https://github.com/sugark/hackaging-ease-agent.git
+[submodule "fundamental-track/singularis/test-team"]
+	path = fundamental-track/singularis/test-team
+	url = https://github.com/lo-dn/singularis.git
+[submodule "fundamental-track/trial-outcome-prediction/cindy-team"]
+	path = fundamental-track/trial-outcome-prediction/cindy-team
+	url = https://github.com/Cynthia-Nwajiobi/ai-agent-for-clinical-trial-prediction.git
+[submodule "fundamental-track/dili-prediction/fit-predict"]
+	path = fundamental-track/dili-prediction/fit-predict
+	url = https://github.com/alina-akh/DILI_AI.git
+[submodule "fundamental-track/sequence-to-function/dvvva"]
+	path = fundamental-track/sequence-to-function/dvvva
+	url = https://github.com/DV-V-VA/magistrum.git
