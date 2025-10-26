@@ -91,3 +91,33 @@
 [submodule "fundamental-track/trial-outcome-prediction/paledriver"]
 	path = fundamental-track/trial-outcome-prediction/paledriver
 	url = https://github.com/Unknown-Negotiator/clinical_trial_prediction_agent.git
+[submodule "fundamental-track/menopause-prediction/bloom-mind-data"]
+	path = fundamental-track/menopause-prediction/bloom-mind-data
+	url = https://github.com/shivv4m/hackaging.git
+[submodule "fundamental-track/menopause-prediction/bloom-mind-web"]
+	path = fundamental-track/menopause-prediction/bloom-mind-web
+	url = https://github.com/Vlavladada/CognitiveAAAA.git
+[submodule "fundamental-track/menopause-prediction/heterocephalidae"]
+	path = fundamental-track/menopause-prediction/heterocephalidae
+	url = https://github.com/Niamorro/Menopause-Prediction.git
+[submodule "fundamental-track/menopause-prediction/fightaginglab"]
+	path = fundamental-track/menopause-prediction/fightaginglab
+	url = https://github.com/alex-meta/menopause_modeling.git
+[submodule "fundamental-track/sequence-to-function/sapiens"]
+	path = fundamental-track/sequence-to-function/sapiens
+	url = https://github.com/hackaging-sapiens/seq2func.git
+[submodule "fundamental-track/sequence-to-function/immortal-combat"]
+	path = fundamental-track/sequence-to-function/immortal-combat
+	url = https://github.com/iteleshov/immortal-combat.git
+[submodule "rapid-adoption-track/hooke"]
+	path = rapid-adoption-track/hooke
+	url = https://github.com/kibalabs/longevity-hack.git
+[submodule "rapid-adoption-track/denis-tuigunov"]
+	path = rapid-adoption-track/denis-tuigunov
+	url = https://github.com/denis29021988156-eng/phase-wise-cf13dbb7.git
+[submodule "rapid-adoption-track/longevity-pro-hackers"]
+	path = rapid-adoption-track/longevity-pro-hackers
+	url = https://github.com/MPomaresJF/live-agentic-database.git
+[submodule "rapid-adoption-track/jug-jug-jeeyo"]
+	path = rapid-adoption-track/jug-jug-jeeyo
+	url = https://github.com/siddhant2118/aegiscycle.git
