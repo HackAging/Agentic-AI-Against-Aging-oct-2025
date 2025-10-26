@@ -58,3 +58,9 @@
 [submodule "fundamental-track/sequence-to-function/dvvva"]
 	path = fundamental-track/sequence-to-function/dvvva
 	url = https://github.com/DV-V-VA/magistrum.git
+[submodule "rapid-adoption-track/hellomri"]
+	path = rapid-adoption-track/hellomri
+	url = https://github.com/kondratevakate/hellomri.git
+[submodule "rapid-adoption-track/singularity-agent-factory"]
+	path = rapid-adoption-track/singularity-agent-factory
+	url = https://github.com/neuroidss/Combination-Synergy-Engine.git
