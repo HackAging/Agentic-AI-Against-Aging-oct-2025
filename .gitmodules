@@ -31,3 +31,9 @@
 [submodule "fundamental-track/sequence-to-function/westcoastvectors"]
 	path = fundamental-track/sequence-to-function/westcoastvectors
 	url = https://github.com/ryanjmccall/protein-seq-to-func.git
+[submodule "rapid-adoption-track/no-country-for-old-men"]
+	path = rapid-adoption-track/no-country-for-old-men
+	url = https://github.com/bfaria13/FemTrack_v1.git
+[submodule "rapid-adoption-track/longbio-agent"]
+	path = rapid-adoption-track/longbio-agent
+	url = https://github.com/asverlov/longbio-agent.git
