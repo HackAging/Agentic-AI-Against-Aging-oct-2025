@@ -14,7 +14,7 @@ Multi-omics biomarker platform
 
 ### [Optimal Rationalization](https://github.com/EliasSchlie/quantifying-the-value-of-delayed-ovarian-aging)
 LangGraph state machine with 1,655 meta-analyses  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=2hQmSGua0w8)**
+**🎥 [YouTube Presentation](https://youtu.be/5g3NmMohAT8)**
 
 ## Challenge Statistics
 - **Teams**: 3

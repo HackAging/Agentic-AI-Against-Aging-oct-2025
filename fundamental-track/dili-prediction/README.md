@@ -6,11 +6,11 @@
 
 ### [fit-predict](https://github.com/alina-akh/DILI_AI)
 AI agent with ChEMBL data and molecular fingerprints  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=f5P2baWs2W0)**
+**🎥 [YouTube Presentation](https://youtu.be/yQ6cO0mHK8s)**
 
 ### [HeterocephalusGlaber](https://github.com/timofeiryko/hack-aging-public)
 Biomedical search with ML models (AUC: 0.85)  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=fRRUWM_HlRY)**
+**🎥 [YouTube Presentation](https://youtu.be/CoLfLx7fowo)**
 
 ## Challenge Statistics
 - **Teams**: 2

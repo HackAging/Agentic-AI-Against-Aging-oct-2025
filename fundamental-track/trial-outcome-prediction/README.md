@@ -6,15 +6,15 @@
 
 ### [Cindy Team](https://github.com/Cynthia-Nwajiobi/ai-agent-for-clinical-trial-prediction)
 Clinical trial outcome prediction agent  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=_BjkPxlmhWQ)**
+**🎥 [YouTube Presentation](https://youtu.be/iW_H1iH4VbQ)**
 
 ### [easidoo](https://github.com/rl55/Acuvir/tree/dev)
 Acuvir with clinical pessimism layer  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=cPhCiE9AxIU)**
+**🎥 [YouTube Presentation](https://youtu.be/cQlRk0UWmiE)**
 
 ### [PEAK](https://github.com/peak-trial-predictor/peak-ct-agent)
 Trial prediction system  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=cQlRk0UWmiE)**
+**🎥 [YouTube Presentation](https://youtu.be/HRQaCd5lF_I)**
 
 ### [Paledriver](https://github.com/Unknown-Negotiator/clinical_trial_prediction_agent)
 Meta Llama 3.1 405B API system  

@@ -6,23 +6,23 @@
 
 ### [Bloom Mind](https://cognitiveaaaa-262194771875.europe-west1.run.app/)
 Cognitive tests + hormonal biomarkers  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=iW_H1iH4VbQ)**
+**🎥 [YouTube Presentation](https://youtu.be/IFxyupFHe70)**
 
 ### [AgeAlly](https://github.com/vovchikzh/hackaging2025-ageally-menopause-menopause-prediction)
 AI-powered platform with SHAP explainability  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=0UN9cP6GonY)**
+**🎥 [YouTube Presentation](https://youtu.be/C9Bxkjx2hms)**
 
 ### [Heterocephalidae](https://menopause-prediction-preview.streamlit.app)
 LightGBM model (C-index 0.819, R² 0.80)  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=5g3NmMohAT8)**
+**🎥 [YouTube Presentation](https://youtu.be/eqByElfFGM0)**
 
 ### [FightAgingLab](http://mp.bio.nkk.net.ru/)
 SWAN Predictor with NHANES data  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=7a2j3QDHzFM)**
+**🎥 [YouTube Presentation](https://youtu.be/vjSAAnZTjPY)**
 
 ### [BioForsee](https://menopause-prediction-hackaging-vedika.streamlit.app/)
 Multi-modal ML with wearable integration  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=9gedxVQnC0g)**
+**🎥 [YouTube Presentation](https://youtu.be/skLNMrIXMMY)**
 
 ## Challenge Statistics
 - **Teams**: 5

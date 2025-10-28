@@ -10,11 +10,11 @@ AI Agent with Google's Gemini multimodal LLM
 
 ### [EvidentIA](https://github.com/canonic-epicure/future_of_evidence)
 AI-powered platform with PyTorch and LLM APIs  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=YNFIkgnAJI8)**
+**🎥 [YouTube Presentation](https://youtu.be/8ztfRaJQTRo)**
 
 ### [The Vitality Vanguard](https://github.com/annamazurek-qa/the-vitality-vanguard/)
 PRISMA workflow automation  
-**🎥 [YouTube Presentation](https://www.youtube.com/watch?v=YaB-G6GdaLU)**
+**🎥 [YouTube Presentation](https://youtu.be/YaB-G6GdaLU)**
 
 ## Challenge Statistics
 - **Teams**: 3
